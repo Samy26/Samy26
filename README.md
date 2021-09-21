@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Samy26
+- 👋 Hi, I’m saumya vatsa
 - 👀 I’m interested in ...automation
-- 🌱 I’m currently ....B.tech 1st year student
+- 🌱 I’m currently ....studing
 - 📫 How to reach me ...through mails📩
 
 <!---
